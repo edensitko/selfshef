@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/selfChef/static/css/main.8b46194b.css",
-    "main.js": "/selfChef/static/js/main.d190061d.js",
-    "static/js/787.b0ea02df.chunk.js": "/selfChef/static/js/787.b0ea02df.chunk.js",
-    "index.html": "/selfChef/index.html",
-    "static/media/mode.svg": "/selfChef/static/media/mode.9bbcff9cd028333f7177c113f0655b57.svg",
-    "main.8b46194b.css.map": "/selfChef/static/css/main.8b46194b.css.map",
-    "main.d190061d.js.map": "/selfChef/static/js/main.d190061d.js.map",
-    "787.b0ea02df.chunk.js.map": "/selfChef/static/js/787.b0ea02df.chunk.js.map"
+    "main.css": "/static/css/main.8b46194b.css",
+    "main.js": "/static/js/main.1ad3ebf9.js",
+    "static/js/787.b0ea02df.chunk.js": "/static/js/787.b0ea02df.chunk.js",
+    "index.html": "/index.html",
+    "static/media/mode.svg": "/static/media/mode.9bbcff9cd028333f7177c113f0655b57.svg",
+    "main.8b46194b.css.map": "/static/css/main.8b46194b.css.map",
+    "main.1ad3ebf9.js.map": "/static/js/main.1ad3ebf9.js.map",
+    "787.b0ea02df.chunk.js.map": "/static/js/787.b0ea02df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b46194b.css",
-    "static/js/main.d190061d.js"
+    "static/js/main.1ad3ebf9.js"
   ]
 }
