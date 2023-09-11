@@ -1,0 +1,31 @@
+
+.dark h1 , .dark h2 ,
+.dark h3 ,.dark p {
+color: aliceblue;
+}
+
+.dark ul{
+    color: rgb(165, 167, 169);
+
+}
+.dark.ing{
+    color: rgb(176, 176, 174);
+}
+.dark svg{
+    fill: rgb(82, 83, 83);
+    color: rgb(255, 249, 249);
+}
+
+.dark input ,
+.dark textarea {
+    color: aliceblue;
+}
+.dark { 
+   background-color: rgb(19, 23, 27) ;
+}
+.dark .add{
+    color: aliceblue;
+}
+.dark label{
+    color: aliceblue;
+}

@@ -3,14 +3,24 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Layout from './layout/MainLayout/Layout';
+import { BrowserRouter ,Route } from 'react-router-dom';
+import ThemeProvider from './pages/context/themeContext';
+import '../src/tailwind.css';
+import { HashRouter as Router } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <BrowserRouter basename="/">
+  <ThemeProvider>
+ 
+
+    <Layout />
+
+    </ThemeProvider>
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
